@@ -1,4 +1,5 @@
 # ms_testcase_solucao-
-Sistema para Controle de Lavagem de Dinheior e Fraudes
+Sistema para controle de lavagem de Dinheiro e anti fraudes
 test case
-Desenvolver sistema de monitoria dos canais
+Desenvolver sistema de monitoria dos canais.
+
